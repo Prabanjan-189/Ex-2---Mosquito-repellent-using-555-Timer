@@ -20,8 +20,8 @@ S.No	Components/Software	Specification
 10	Connecting Wires	Virtual Components
 
 **Circuit Diagram**
+<img width="1600" height="880" alt="WhatsApp Image 2026-07-22 at 11 02 10 AM" src="https://github.com/user-attachments/assets/daf2c464-6ce9-406d-8ad0-7e0824a7f3d5" />
 
-(Insert Proteus circuit diagram here.)
 
 **Theory**
 
@@ -70,9 +70,8 @@ Observe the square-wave output and verify the generated frequency.
 Adjust the potentiometer and note the corresponding change in output frequency.
 
 **Output**
-	
-	
-(Insert Proteus output diagram here.)
+<img width="1403" height="797" alt="Screenshot 2026-07-22 113437" src="https://github.com/user-attachments/assets/c37f6a87-581a-478c-b794-81d9abcefa77" />
+
 
 **Result**
 
