@@ -20,7 +20,7 @@ S.No	Components/Software	Specification
 10	Connecting Wires	Virtual Components
 
 **Circuit Diagram**
-<img width="1600" height="880" alt="WhatsApp Image 2026-07-22 at 11 02 10 AM" src="https://github.com/user-attachments/assets/daf2c464-6ce9-406d-8ad0-7e0824a7f3d5" />
+<img width="1917" height="1135" alt="image" src="https://github.com/user-attachments/assets/efc9162b-804e-430a-9a88-d5cc54cb5186" />
 
 
 **Theory**
@@ -70,7 +70,7 @@ Observe the square-wave output and verify the generated frequency.
 Adjust the potentiometer and note the corresponding change in output frequency.
 
 **Output**
-<img width="1403" height="797" alt="Screenshot 2026-07-22 113437" src="https://github.com/user-attachments/assets/c37f6a87-581a-478c-b794-81d9abcefa77" />
+<img width="1748" height="955" alt="image" src="https://github.com/user-attachments/assets/8c7f1239-1766-4aea-98ae-7eb3ab7c35c0" />
 
 
 **Result**
